@@ -1,0 +1,99 @@
+13-Dec-2021 20:50:33.729 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 20:50:33.729 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 20:50:33.746 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 20:50:34.930 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 20:50:34.930 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 21:37:43.083 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 21:37:43.083 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 21:37:43.086 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 21:37:44.334 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 21:37:44.334 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 21:38:18.065 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 21:38:20.298 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 21:38:20.298 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:01:48.453 INFO [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:01:54.376 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:01:54.376 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:04:19.561 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 22:04:19.561 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 22:04:19.582 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:04:23.627 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:04:23.629 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:21:15.662 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:21:16.772 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:21:16.772 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:32:28.775 INFO [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:32:29.921 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:32:29.921 INFO [http-nio-8080-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:34:17.132 INFO [http-nio-8080-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:34:18.302 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:34:18.302 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:38:42.238 INFO [http-nio-8080-exec-40] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:38:43.315 INFO [http-nio-8080-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:38:43.316 INFO [http-nio-8080-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:44:02.947 INFO [http-nio-8080-exec-54] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:44:05.008 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:44:05.009 INFO [http-nio-8080-exec-55] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:54:32.434 INFO [http-nio-8080-exec-60] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:54:33.534 INFO [http-nio-8080-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:54:33.534 INFO [http-nio-8080-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:58:27.846 INFO [http-nio-8080-exec-77] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:58:28.901 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:58:28.901 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 22:59:24.910 INFO [http-nio-8080-exec-73] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 22:59:28.122 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 22:59:28.122 INFO [http-nio-8080-exec-76] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:09:21.837 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:09:23.045 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:09:23.045 INFO [http-nio-8080-exec-87] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:15:56.897 INFO [http-nio-8080-exec-99] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:15:58.122 INFO [http-nio-8080-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:15:58.122 INFO [http-nio-8080-exec-94] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:18:17.543 INFO [http-nio-8080-exec-108] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:18:18.826 INFO [http-nio-8080-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:18:18.826 INFO [http-nio-8080-exec-102] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:22:07.547 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:22:08.794 INFO [http-nio-8080-exec-120] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:22:08.794 INFO [http-nio-8080-exec-120] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:29:33.379 INFO [http-nio-8080-exec-125] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:29:34.523 INFO [http-nio-8080-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:29:34.524 INFO [http-nio-8080-exec-124] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:35:42.769 INFO [http-nio-8080-exec-139] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:35:44.835 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:35:44.835 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:39:22.573 INFO [http-nio-8080-exec-147] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:39:24.675 INFO [http-nio-8080-exec-144] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:39:24.675 INFO [http-nio-8080-exec-144] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:41:28.265 INFO [http-nio-8080-exec-157] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:41:29.504 INFO [http-nio-8080-exec-159] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:41:29.505 INFO [http-nio-8080-exec-159] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:43:00.638 INFO [http-nio-8080-exec-163] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:43:02.605 INFO [http-nio-8080-exec-167] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:43:02.605 INFO [http-nio-8080-exec-167] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:46:36.720 INFO [http-nio-8080-exec-177] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:46:38.653 INFO [http-nio-8080-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:46:38.654 INFO [http-nio-8080-exec-176] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:48:08.480 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 23:48:08.481 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 23:48:08.500 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:48:10.909 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:48:10.910 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:52:01.116 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:52:01.854 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:52:01.855 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:52:35.591 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 23:52:35.592 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 23:52:35.611 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:52:36.708 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:52:36.708 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:54:32.790 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:54:33.866 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:54:33.867 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:55:56.427 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+13-Dec-2021 23:55:56.428 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+13-Dec-2021 23:55:56.441 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:55:58.345 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:55:58.345 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp
+13-Dec-2021 23:59:36.979 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/syst'
+13-Dec-2021 23:59:37.604 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/syst'
+13-Dec-2021 23:59:37.604 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to D:\Java\apache-tomcat-9.0.41\webapps\syst.war.tmp

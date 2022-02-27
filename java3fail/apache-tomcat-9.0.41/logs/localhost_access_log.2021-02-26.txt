@@ -1,0 +1,7 @@
+127.0.0.1 - tomcat [26/Feb/2021:19:46:35 +0300] "GET /manager/text/undeploy?path=%2Fweb HTTP/1.1" 200 93
+127.0.0.1 - tomcat [26/Feb/2021:19:46:54 +0300] "PUT /manager/text/deploy?path=%2Fweb&update=true HTTP/1.1" 200 116
+127.0.0.1 - tomcat [26/Feb/2021:19:53:18 +0300] "GET /manager/text/undeploy?path=%2Fweb HTTP/1.1" 200 93
+127.0.0.1 - tomcat [26/Feb/2021:19:53:35 +0300] "PUT /manager/text/deploy?path=%2Fweb&update=true HTTP/1.1" 200 116
+127.0.0.1 - tomcat [26/Feb/2021:20:07:59 +0300] "GET /manager/text/undeploy?path=%2Fweb HTTP/1.1" 200 93
+127.0.0.1 - tomcat [26/Feb/2021:20:08:17 +0300] "PUT /manager/text/deploy?path=%2Fweb&update=true HTTP/1.1" 200 116
+0:0:0:0:0:0:0:1 - - [26/Feb/2021:20:17:32 +0300] "GET /web/ HTTP/1.1" 200 4353

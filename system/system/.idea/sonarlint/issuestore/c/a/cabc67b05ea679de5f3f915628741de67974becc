@@ -1,0 +1,10 @@
+
+<
+java:S21853"&Remove this silly call to "Math.floor"(åžÒÑ
+<
+java:S21855"&Remove this silly call to "Math.floor"(ÔüÃÈ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(ôÿü
+X
+java:S21843"BCast one of the operands of this division operation to a "double".(åžÒÑ
+X
+java:S21845"BCast one of the operands of this division operation to a "double".(ÔüÃÈ

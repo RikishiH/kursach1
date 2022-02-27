@@ -1,0 +1,13 @@
+
+Z
+java:S3878$"8Remove this array creation and simply pass the elements.(²éú¨ùÿÿÿÿ8½ø”¨Û/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ï½ÈÐÿÿÿÿÿ8Ìø”¨Û/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ü¡ìºøÿÿÿÿ8Ìø”¨Û/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¬ð€¤ûÿÿÿÿ8Íø”¨Û/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ºµö’8Íø”¨Û/
+W
+java:S1128":Remove this unused import 'org.hibernate.service.Service'.(¶È•¢8Íø”¨Û/

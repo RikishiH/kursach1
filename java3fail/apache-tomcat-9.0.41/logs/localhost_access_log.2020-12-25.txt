@@ -1,0 +1,12 @@
+192.168.100.98 - - [25/Dec/2020:19:40:45 +0300] "GET / HTTP/1.1" 200 11355
+192.168.100.98 - - [25/Dec/2020:19:40:51 +0300] "GET /HNAP1/ HTTP/1.1" 404 781
+127.0.0.1 - tomcat [25/Dec/2020:21:22:46 +0300] "GET /manager/text/undeploy?path=%2Ftomcat-quickstart HTTP/1.1" 200 107
+127.0.0.1 - tomcat [25/Dec/2020:21:22:49 +0300] "PUT /manager/text/deploy?path=%2Ftomcat-quickstart HTTP/1.1" 200 130
+127.0.0.1 - tomcat [25/Dec/2020:21:35:06 +0300] "GET /manager/text/serverinfo HTTP/1.1" 200 188
+127.0.0.1 - tomcat [25/Dec/2020:21:36:23 +0300] "GET /manager/text/stop?path=%2Ftask8 HTTP/1.1" 200 83
+127.0.0.1 - tomcat [25/Dec/2020:21:37:03 +0300] "PUT /manager/text/deploy?path=%2Ftask8&war=&update=true HTTP/1.1" 200 118
+127.0.0.1 - tomcat [25/Dec/2020:21:38:03 +0300] "GET /manager/text/undeploy?path=%2Ftask8 HTTP/1.1" 200 95
+127.0.0.1 - tomcat [25/Dec/2020:21:38:21 +0300] "GET /manager/text/start?path=%2Ftask8 HTTP/1.1" 200 83
+127.0.0.1 - tomcat [25/Dec/2020:21:38:36 +0300] "PUT /manager/text/deploy?path=%2Ftask8&war= HTTP/1.1" 200 118
+127.0.0.1 - tomcat [25/Dec/2020:21:38:47 +0300] "GET /manager/text/start?path=%2Ftask8 HTTP/1.1" 200 97
+127.0.0.1 - tomcat [25/Dec/2020:21:41:13 +0300] "GET /manager/text/undeploy?path=%2Ftask8 HTTP/1.1" 200 95

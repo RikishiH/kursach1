@@ -1,0 +1,16 @@
+127.0.0.1 - tomcat [14/Dec/2021:00:00:03 +0300] "GET /manager/text/undeploy?path=%2Fsyst HTTP/1.1" 200 94
+127.0.0.1 - tomcat [14/Dec/2021:00:00:25 +0300] "PUT /manager/text/deploy?path=%2Fsyst&update=true HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:01:25 +0300] "GET /syst/ HTTP/1.1" 500 49746
+127.0.0.1 - tomcat [14/Dec/2021:00:02:09 +0300] "GET /manager/text/undeploy?path=%2Fsyst HTTP/1.1" 200 94
+127.0.0.1 - tomcat [14/Dec/2021:00:02:31 +0300] "PUT /manager/text/deploy?path=%2Fsyst&update=true HTTP/1.1" 200 117
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:36 +0300] "GET /syst/ HTTP/1.1" 200 3391
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:38 +0300] "GET /syst/login HTTP/1.1" 200 1329
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:41 +0300] "POST /syst/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:41 +0300] "GET /syst/ HTTP/1.1" 200 4309
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:47 +0300] "GET /syst/credit/search?searchParam=%D0%BF HTTP/1.1" 200 4183
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:52 +0300] "GET /syst/logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:52 +0300] "GET /syst/login?logout HTTP/1.1" 200 1405
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:59 +0300] "POST /syst/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:02:59 +0300] "GET /syst/ HTTP/1.1" 200 4671
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:03:10 +0300] "GET /syst/order/search?searchParam=%D0%BC%D0%BE%D0%B9 HTTP/1.1" 200 4673
+0:0:0:0:0:0:0:1 - - [14/Dec/2021:00:03:15 +0300] "GET /syst/order/4028ccf47db54a24017db54ab7ec0000 HTTP/1.1" 200 4165
